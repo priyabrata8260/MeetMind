@@ -1,0 +1,6 @@
+{
+  "name": "MeetMind",
+  "description": "Meetings that execute themselves. AI extracts decisions, owners, and due dates from meetings, drafts an approval-gated workflow canvas, and runs tasks live across tickets, email, calendar, and Slack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
